@@ -1,9 +1,9 @@
 ## Oi oi! Eu sou a Carla Munari :D
 
-- 🚀 Atualmente procuro uma oportunidade para atuar nas diversas áreas que envolvam Análise e Desenvolvimento de Sistemas
+- 💡 Atualmente procuro uma oportunidade para atuar nas diversas áreas que envolvam Análise e Desenvolvimento de Sistemas
 - 🛸 Estou estudando Python, HTML 5, CSS e JavaScript
-- 📨 Contate-me no email: carla.munari95@gmail.com
-- 😊 Pronomes: ela/dela
+- 🔮 Contate-me no email: carla.munari95@gmail.com
+- 🐈‍⬛ Pronomes: ela/dela
   
 <div>
   <a href="https://github.com/camunari">
