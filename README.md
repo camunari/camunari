@@ -1,4 +1,4 @@
-## Oi oi! Eu sou a Carla Munari :D
+## Oi!! Eu sou a Carla Munari
 
 - 💡 Atualmente procuro uma oportunidade para atuar nas diversas áreas que envolvam Análise e Desenvolvimento de Sistemas
 - 🛸 Estou estudando Python, HTML 5, CSS e JavaScript
