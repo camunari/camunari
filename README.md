@@ -1,10 +1,12 @@
 ## Oi!! Eu sou a Carla Munari
 
 - 💡 Atualmente procuro uma oportunidade para atuar nas diversas áreas que envolvam Análise e Desenvolvimento de Sistemas
-- 🛸 Estou estudando Python, HTML 5, CSS e JavaScript
+- 🛸 Estou estudando Python, HTML 5, CSS, JavaScript, PHP, VueJs, Laravel
 - 🔮 Contate-me no email: carla.munari95@gmail.com
 - 🐈‍⬛ Pronomes: ela/dela
-  
+<div>
+  <img src="https://64.media.tumblr.com/7fb3821966520bcbfbc148849ccac858/077ea2bdd070b100-af/s540x810/0797423c040b75da5d2a9e6151a2c3f6563156cc.gifv" height="460" width="540" alt="#jiji from just a bunch of hocus pocus">
+</div>
 <div>
   <a href="https://github.com/camunari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camunari&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
