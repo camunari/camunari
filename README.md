@@ -1,6 +1,6 @@
 ## Oi!! Eu sou a Carla Munari
 
-- 💡 Atualmente procuro uma oportunidade para atuar nas diversas áreas que envolvam Análise e Desenvolvimento de Sistemas
+- 💡 Atualmente curso Análise e Desenvolvimento de Sistemas
 - 🛸 Estou estudando Python, HTML 5, CSS, JavaScript, PHP, VueJs, Laravel
 - 🔮 Contate-me no email: carla.munari95@gmail.com
 - 🐈‍⬛ Pronomes: ela/dela <br/><br/>
