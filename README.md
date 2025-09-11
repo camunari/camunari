@@ -1,7 +1,7 @@
 ## Oi!! Eu sou a Carla Munari
 
-- 💡 Atualmente curso Análise e Desenvolvimento de Sistemas
-- 🛸 Estou estudando HTML 5, CSS, JavaScript, PHP, VueJs, Laravel
+
+- 🛸 Programadora Full-stack
 - 🔮 Contate-me no email: carla.munari95@gmail.com
 - 🐈‍⬛ Pronomes: ela/dela <br/><br/>
 
